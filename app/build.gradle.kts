@@ -5,7 +5,7 @@ plugins {
 
 android {
     namespace = "com.starostin.rgb_color"
-    compileSdk = 33
+    compileSdk = 34
 
     defaultConfig {
         applicationId = "com.starostin.rgb_color"
